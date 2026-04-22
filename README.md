@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m a mechanical engineering graduate interested in software
+- Lately I've been building ganttbuddy - a full stack project management application to manage projects from start to finish. 
 
 
 <!---
